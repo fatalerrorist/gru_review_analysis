@@ -3,8 +3,8 @@
 HepsiBurada is most visited and largest E-commerce website in Turkey. I have user's Product comments and rating is comment negative or posivite.
 
 
-![GitHub Logo](/images/logo.png)
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/img/product.png)
+![GitHub Logo](/img/comment.png)
 
 Made with using Tools:
 
