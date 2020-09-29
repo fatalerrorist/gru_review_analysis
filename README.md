@@ -3,8 +3,17 @@
 HepsiBurada is most visited and largest E-commerce website in Turkey. I have user's Product comments and rating is comment negative or posivite. So I'm working on web deploying on this project, will adding soon!
 
 
-![GitHub Logo](/img/product.png)
-![GitHub Logo](/img/comment.png)
+![Hepsiburada](/img/product.png)
+![Hepsiburada](/img/comment.png)
+
+## Model Architecture
+- Many to one RNN
+- Gated Recurrent Unit
+- Based on LSTM model
+![Architecture](img/Sent-analysis-diag.png)
+
+
+
 
 Made with using Tools:
 
