@@ -10,6 +10,8 @@ HepsiBurada is most visited and largest E-commerce website in Turkey. I have use
 - Many to one RNN
 - Gated Recurrent Unit
 - Based on LSTM model
+
+
 ![Architecture](img/Sent-analysis-diag.png)
 
 
