@@ -2,14 +2,22 @@
 
 HepsiBurada is most visited and largest E-commerce website in Turkey. I have user's Product comments and rating is comment negative or posivite. So I'm working on web deploying on this project, will adding soon!
 
-
 ![Hepsiburada](/img/product.png)
 ![Hepsiburada](/img/comment.png)
 
-## Model Architecture
-- Many to one RNN
-- Gated Recurrent Unit
-- Based on LSTM model
+
+## Made with using Tools:
+
+* Tensorflow / Keras
+* Numpy
+* Pandas
+
+
+## Model Architecture:
+
+* Many to one RNN
+* Gated Recurrent Unit
+* Based on LSTM model
 
 
 ![Architecture](img/Sent-analysis-diag.png)
@@ -17,8 +25,9 @@ HepsiBurada is most visited and largest E-commerce website in Turkey. I have use
 
 
 
-Made with using Tools:
 
-* Tensorflow / Keras
-* Numpy
-* Pandas
+
+
+
+
+
