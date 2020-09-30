@@ -1,6 +1,6 @@
 # Deep Natural Language Processing Project (Sentiment Analysis)
 
-HepsiBurada is most visited and largest E-commerce website in Turkey. I have user's Product comments and rating is comment negative or positive. So I'm working on web deploying on this project, will adding soon!
+HepsiBurada is most visited and largest E-commerce website in Turkey. I have user's Product comments and rating is comment negative or positive.
 
 ![Hepsiburada](/img/product.png)
 ![Hepsiburada](/img/comment.png)
