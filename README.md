@@ -24,6 +24,7 @@ LSTM ’s and GRU’s were created as the solution to short-term memory. They ha
 
 ![GRU](https://miro.medium.com/max/576/1*AQ52bwW55GsJt6HTxPDuMA.gif)
 
+![Architecture](https://cdn-images-1.medium.com/max/800/1*9z1Jrl8K99TorEQfsOTjpA.png)
 
 
 
@@ -41,7 +42,7 @@ LSTM ’s and GRU’s were created as the solution to short-term memory. They ha
 * Based on LSTM model
 
 
-![Architecture](https://cdn-images-1.medium.com/max/800/1*9z1Jrl8K99TorEQfsOTjpA.png)
+
 
 
 
